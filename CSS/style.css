@@ -1,0 +1,111 @@
+
+.header-top {
+    background-color: black;
+    color: white;
+}
+
+.header {
+    height: 150px;
+}
+
+.height50 {
+    height: 50px;
+}
+
+.grey-background {
+    background-color: #231f20 !important;
+}
+
+.fab {
+    color: white;
+    margin-left: 15px;
+}
+
+.h-0 {
+    height: 0;
+}
+
+.bg-purple {
+    background-color: #ac33d6;
+
+}
+
+.bg-blue {
+    background-color: #34a1f3;
+}
+
+.bg-green {
+    background-color: #79b132;
+}
+
+.bg-red {
+    background-color: #f13f31;
+}
+
+.text-grey {
+    color: #787878;
+}
+
+.text-small {
+    font-size: 0.8rem;
+}
+
+.align-content-space-around {
+    align-content: space-around;
+}
+
+.max-w-100 {
+    max-width: 100%;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.z-index-2 {
+    z-index: 2;
+}
+
+.bottom-spacing {
+    bottom: 30px;
+    left: 20px;
+}
+
+.bottom-0 {
+    bottom: 0;
+}
+
+.bg-black-transparent {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.minus-margin {
+    margin-top: -25px;
+}
+
+
+.align-content-space-around {
+    align-content: space-around;
+}
+
+.max-w-100 {
+    max-width: 100%;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.z-index-2 {
+    z-index: 2;
+}
+
+.bottom-spacing {
+    bottom: 30px;
+    left: 20px;
+}
+
+.order-amount {
+    width: 30px;
+    border: 1px solid #e4e4e4;
+}
